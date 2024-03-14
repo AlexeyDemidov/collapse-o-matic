@@ -29,7 +29,7 @@ class WP_Collapse_O_Matic {
 	 * Current version
 	 * @var string
 	 */
-	var $version = '1.8.5.4';
+	var $version = '1.8.5.6';
 
 	/**
 	 * Used as prefix for options entry
